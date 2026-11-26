@@ -1,2 +1,11 @@
-# VB2OBS-releases
-Официальные выпуски VB2OBS Conference Control для OBS Studio
+# VB2OBS Conference Control
+
+Публичный канал выпусков нативного плагина VB2OBS для OBS Studio 32.1.1 x64 на Windows.
+
+[Открыть GitHub Releases](https://github.com/bukirev/VB2OBS-releases/releases)
+
+- Для установки и обновления скачайте `VB2OBS-Updater-windows-x64.zip`, распакуйте и запустите `VB2OBS-Updater.exe`.
+- ZIP плагина также доступен для ручной установки. Сопутствующий `.sha256` содержит контрольную сумму.
+- Соответствующий исходный код плагина под GPL-2.0-or-later приложен к каждому выпуску.
+
+Тестовые версии доступны при включённой опции «Предварительные выпуски» в обновляторе.
